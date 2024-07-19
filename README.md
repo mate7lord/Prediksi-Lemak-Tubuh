@@ -3,24 +3,22 @@
 # About the dataset
 Dataset can be downloaded from [here](https://www.kaggle.com/fedesoriano/body-fat-prediction-dataset)
 
-# Attributes in the dataset
-
-1) Density determined from underwater weighing
-2) Percent body fat from Siri's (1956) equation
-3) Age (years)
-4) Weight (lbs)
-5) Height (inches)
-6) Neck circumference (cm)
-7) Chest circumference (cm)
-8) Abdomen 2 circumference (cm)
-9) Hip circumference (cm)
-10) Thigh circumference (cm)
-11) Knee circumference (cm)
-12) Ankle circumference (cm)
-13) Biceps (extended) circumference (cm)
-14) Forearm circumference (cm)
-15) Wrist circumference (cm)
-
+# Atribut dalam dataset
+1) Kepadatan ditentukan dari penimbangan di bawah air
+2) Persen lemak tubuh dari persamaan Siri (1956)
+3) Usia (tahun)
+4) Berat (lbs)
+5) Tinggi badan (inci)
+6) Lingkar leher (cm)
+7) Lingkar dada (cm)
+8) Lingkar perut 2 (cm)
+9) Lingkar pinggul (cm)
+10) Lingkar paha (cm)
+11) Lingkar lutut (cm)
+12) Lingkar pergelangan kaki (cm)
+13) Lingkar bisep (diperpanjang) (cm)
+14) Lingkar lengan bawah (cm)
+15) Lingkar pergelangan tangan (cm)
 
 # Deployment on Azure Cloud
 
